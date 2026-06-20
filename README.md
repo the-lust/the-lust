@@ -35,6 +35,7 @@
 
 <br>
 
+<div align="center">
 <table width="100%">
 <tr>
 <td width="52%" valign="top">
@@ -47,6 +48,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 <br>
 
