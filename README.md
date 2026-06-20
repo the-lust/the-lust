@@ -39,11 +39,11 @@
 <tr>
 <td width="52%" valign="top">
 
-<img src="assets/about.svg" alt="about" style="display:block;max-width:100%">
+<img src="assets/about.svg" alt="about" width="100%">
 </td>
 <td width="48%" valign="top" align="center">
 
-<img src="assets/skull.svg" alt="skull" style="display:block;max-width:100%">
+<img src="assets/skull.svg" alt="skull" width="100%">
 </td>
 </tr>
 </table>
