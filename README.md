@@ -108,5 +108,5 @@
 <br>
 
 <div align="center">
-<img src="banner.gif" width="100%" height="130" alt="">
+<img src="banner.gif" width="100%" height="195" alt="">
 </div>

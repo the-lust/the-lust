@@ -11,18 +11,20 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate snake SVG
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23cc2200&color_dots[0]=%230d1117&color_dots[1]=%23300000&color_dots[2]=%23660000&color_dots[3]=%23990000&color_dots[4]=%23cc2200
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23cc2200&color_dots[0]=%230d1117&color_dots[1]=%232a0000&color_dots[2]=%23550000&color_dots[3]=%23880000&color_dots[4]=%23cc2200
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Copy to assets
+        run: cp dist/github-contribution-grid-snake-dark.svg assets/snake.svg
+
+      - name: Commit updated snake
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update contribution snake"
+          file_pattern: assets/snake.svg
