@@ -38,11 +38,11 @@
 <div align="center">
 <table width="100%">
 <tr>
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
 <img src="assets/about.svg" alt="about" width="100%">
 </td>
-<td width="48%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 <img src="assets/skull.svg" alt="skull" width="100%">
 </td>
