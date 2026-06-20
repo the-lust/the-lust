@@ -1,0 +1,32 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="280" height="269" viewBox="0 0 280 269">
+  <defs><clipPath id="c"><rect x="0" y="22" width="280" height="247"/></clipPath></defs>
+  <rect x="0" y="0" width="280" height="269" rx="5" fill="#0d1117" stroke="#cc2200" stroke-width="1"/>
+  <rect x="0" y="0" width="280" height="22" rx="4" fill="#161b22"/>
+  <rect x="0" y="16" width="280" height="6" fill="#161b22"/>
+  <circle cx="268" cy="11" r="3" fill="#ff5555"/>
+  <circle cx="258" cy="11" r="3" fill="#555555"/>
+  <circle cx="248" cy="11" r="3" fill="#555555"/>
+  <text x="8" y="15" font-family="JetBrains Mono,monospace" font-size="8" fill="#cc2200" opacity="0.6">neofetch</text>
+  <g clip-path="url(#c)">    <text x="8" y="38.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢡⠠⠀⠀⡇⣯⡄⢀⢀⢰⠢⡀⢣⠘⡄⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+    <text x="8" y="49.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⢂⠑⡀⡇⢿⠐⡈⠪⠄⣧⣐⣄⠿⡱⢄⠀⢺⠤⢀⢰⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+    <text x="8" y="60.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⠀⠀⠀⡤⣀⠀⠑⢦⡤⢤⣥⡬⢧⠼⢧⠬⠯⡙⣷⣖⠧⡙⣒⣧⠵⣀⠩⣢⢿⣌⢓⢄⠀⠀⠀⠀⠀⠀⠀⠀</text>
+    <text x="8" y="71.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⠀⠀⠐⢄⠳⡌⠙⠡⣍⡓⠦⣌⠭⢬⣤⣡⠐⢎⢼⠷⢞⣼⣬⣱⣽⣲⢫⢻⢕⣍⠣⡱⡽⡲⡠⣀⠀⠀⠀⠀</text>
+    <text x="8" y="82.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⡀⢕⡢⢈⠣⡾⢌⡃⠠⢘⣧⣋⠙⠦⡭⢭⡝⠶⣳⠷⢮⣽⣶⣷⣭⣹⢷⡷⣿⣯⣷⡨⢶⣿⣵⢌⡦⡀⠀⠀</text>
+    <text x="8" y="93.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⢀⢈⠢⣹⣢⣨⠖⢍⡒⠶⠨⣡⣒⣷⣶⣭⡗⣚⠚⡭⠝⠴⠦⣤⠍⣛⣓⢯⣬⣿⣽⣽⡿⣿⣿⣮⣾⡽⢷⣲⢱⡀⢀</text>
+    <text x="8" y="104.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠈⢋⢼⢽⢯⢦⡙⣓⠞⡛⣳⣙⣾⣭⣧⣄⣀⠤⠐⠒⠉⠊⠙⢛⣿⣟⣯⣾⣭⣻⣮⣻⣿⣿⣿⣿⣿⣦⠘⣞⡌⡿⣼</text>
+    <text x="8" y="115.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⣱⢻⡔⢤⣉⣐⣤⣋⣥⡤⣽⡷⠒⠌⡀⢀⣠⡤⠚⢈⣉⡴⠯⠛⠻⢃⢛⣻⣿⣷⣿⣿⡿⣿⣿⣿⣧⣿⣶⣲⢻</text>
+    <text x="8" y="126.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⠀⠑⠺⢅⣝⣛⣥⣍⡁⢀⣉⣠⣴⠞⣋⣽⠡⢴⠾⣋⡡⢄⣲⣈⠭⠙⠛⣻⣿⣿⣷⣿⣿⣽⣿⣿⣿⣿⣿⣿⣿</text>
+    <text x="8" y="137.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⠒⡤⢤⢶⠚⣋⡩⢤⣖⣍⣉⣾⢋⣬⣛⣷⡿⠋⣨⣕⣦⠓⠁⠀⣀⠴⢎⣉⠵⢛⣻⣩⣽⣿⣿⣿⣿⣿⣿⣋⣟</text>
+    <text x="8" y="148.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⠀⣴⣙⡽⣯⡝⣋⣡⣴⣤⢿⢡⣿⣿⡿⢊⣤⠾⠋⡩⠂⢀⣴⡫⠕⣊⠕⢁⠔⢁⡼⠋⠁⡁⣸⣿⣿⣿⣿⣛⣿</text>
+    <text x="8" y="159.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⡇⠀⠀⠀⢠⡀⢸⡻⡴⣷⣩⡟⠩⡠⢊⡠⣰⠟⢁⠄⠊⢀⡴⠋⠔⠉⠀⡘⢰⢀⣿⣿⣿⣿⣿⣿⣿</text>
+    <text x="8" y="170.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢡⢠⡄⠀⠀⡘⢩⠗⢪⢋⡟⣐⠥⠶⣹⠼⠑⢈⣀⣴⠜⢁⠀⠀⢠⡕⣽⠀⣟⣾⣿⢻⢻⣿⣿⣿⣿</text>
+    <text x="8" y="181.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠚⡁⠋⠀⠠⡦⠢⠴⢥⣎⣜⣡⣶⣾⣶⣾⣿⣭⣽⣠⠴⢃⣔⣪⡞⣱⣷⠸⣼⣟⣧⣟⣼⣟⣿⣿⣿</text>
+    <text x="8" y="192.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⠀⠀⢸⡟⣷⡀⠀⠀⠀⣧⢠⡔⢋⣡⣾⣿⣿⢻⡏⠛⢻⣿⡟⢁⣴⣫⢻⣿⣲⣿⣾⡀⣷⣛⡟⣬⣿⢹⣿⣿⣿</text>
+    <text x="8" y="203.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⠀⠀⡾⣛⠻⢿⣦⠀⠀⠈⠈⢡⡜⣿⡿⠟⡿⠃⠀⣄⢳⣿⡿⣿⢿⡿⣿⣽⣿⣿⡿⣧⣿⣿⣷⣿⠛⢸⣿⣿⣿</text>
+    <text x="8" y="214.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⠀⠀⣡⠻⡷⣦⡿⠆⠀⠀⢠⣦⠀⢸⡅⠰⠃⠘⣦⡾⣧⡏⡄⢣⡄⣀⣿⣛⣬⡅⣶⣿⣿⣿⣿⢹⡄⣻⣿⣯⣿</text>
+    <text x="8" y="225.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⠀⡠⠃⠀⢧⠀⣳⡀⠀⢠⣾⡿⠆⢈⣣⠀⠀⠀⡞⠃⠻⢀⠀⢾⣧⣉⣛⣉⣤⣶⣿⡟⠸⡌⢾⠀⣣⣿⡏⢫⡿</text>
+    <text x="8" y="236.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⣾⣀⠀⠀⠙⠃⠘⠃⠠⣼⡇⠀⠀⢨⡖⠀⠀⠀⠁⠀⠀⠈⠁⠈⠻⢿⣿⣿⣿⠟⡹⠶⠁⡓⡘⣆⠿⠡⢠⡏⡿</text>
+    <text x="8" y="247.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">⠀⠀⠀⠀⠀⠀⠈⠺⢗⣦⣄⣀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠤⠀⠀⠀⠀⣫⣿⣿⣿⠀⢧⢸⠀⡿⢰⢣⢸⡇⡜⣸⣼</text>
+    <text x="8" y="258.5" font-family="JetBrains Mono,monospace" font-size="8.5" fill="#cc2200">```</text>
+  </g>
+</svg>

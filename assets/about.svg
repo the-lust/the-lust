@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="320" height="282" viewBox="0 0 320 282">
+  <defs><clipPath id="c"><rect x="0" y="24" width="320" height="258"/></clipPath></defs>
+  <rect x="0" y="0" width="320" height="282" rx="6" fill="#0d1117" stroke="#cc2200" stroke-width="1"/>
+  <rect x="0" y="0" width="320" height="24" rx="5" fill="#161b22"/>
+  <rect x="0" y="18" width="320" height="6" fill="#161b22"/>
+  <circle cx="306" cy="12" r="3.5" fill="#ff5555"/>
+  <circle cx="294" cy="12" r="3.5" fill="#555555"/>
+  <circle cx="282" cy="12" r="3.5" fill="#555555"/>
+  <text x="10" y="16" font-family="JetBrains Mono,monospace" font-size="9" fill="#cc2200" opacity="0.6">about.sh</text>
+  <g clip-path="url(#c)">    <text x="10" y="45" font-family="JetBrains Mono,monospace" font-size="11" fill="#cc2200"></text>
+    <text x="10" y="62" font-family="JetBrains Mono,monospace" font-size="11" fill="#cc2200">⬥  femboy  ·  cosplay  ·  crossdress</text>
+    <text x="10" y="79" font-family="JetBrains Mono,monospace" font-size="11" fill="#cc2200">⬥  pizza  ·  strawberry boba milk tea</text>
+    <text x="10" y="96" font-family="JetBrains Mono,monospace" font-size="11" fill="#cc2200">⬥  assassin's creed  ·  cod  ·  gamer</text>
+    <text x="10" y="113" font-family="JetBrains Mono,monospace" font-size="11" fill="#cc2200">⬥  anime  ·  manga  ·  kdrama  ·  films</text>
+    <text x="10" y="130" font-family="JetBrains Mono,monospace" font-size="11" fill="#cc2200">⬥  football (soccer)  ·  badminton</text>
+    <text x="10" y="147" font-family="JetBrains Mono,monospace" font-size="11" fill="#cc2200">⬥  scared of ghosts</text>
+    <text x="10" y="164" font-family="JetBrains Mono,monospace" font-size="11" fill="#444">─────────────────────────────────────</text>
+    <text x="10" y="181" font-family="JetBrains Mono,monospace" font-size="11" fill="#cc2200">⬥  rux contributor  ·  tool research</text>
+    <text x="10" y="198" font-family="JetBrains Mono,monospace" font-size="11" fill="#cc2200">⬥  reverse eng  ·  drm  ·  asm basics</text>
+    <text x="10" y="215" font-family="JetBrains Mono,monospace" font-size="11" fill="#cc2200">⬥  windows hypervisor research</text>
+    <text x="10" y="232" font-family="JetBrains Mono,monospace" font-size="11" fill="#cc2200">⬥  c++  &gt;  c#  &gt;  java  &gt;  py  &gt;  rust</text>
+    <text x="10" y="249" font-family="JetBrains Mono,monospace" font-size="11" fill="#cc2200">⬥  discord  ·  nanami.sai</text>
+    <text x="10" y="266" font-family="JetBrains Mono,monospace" font-size="11" fill="#cc2200">```</text>
+  </g>
+</svg>
